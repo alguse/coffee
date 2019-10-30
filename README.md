@@ -3,6 +3,8 @@ Simulator of an automatic coffee dispensing machine. The machine maintains an in
 dispense a fixed set of possible drinks by combining these ingredients in different amounts.
 The cost of a drink is determined by its component ingredients (see table of component ingredient list).
 
+View the running app here http://sergioalbarran.com/sag/coffee/
+
 # Available drinks:
 
 Coffee: 3 units of coffee, 1 unit of sugar, 1 unit of cream
