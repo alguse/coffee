@@ -1,0 +1,143 @@
+{
+  "ingredients": [
+    {
+      "ingredientID": "1",
+      "cost": "0.75",
+      "name": "Coffee",
+      "stock": "10"
+    },
+    {
+      "ingredientID": "2",
+      "cost": "0.75",
+      "name": "Decaf Coffee",
+      "stock": "10"
+    },
+    {
+      "ingredientID": "3",
+      "cost": "0.25",
+      "name": "Sugar",
+      "stock": "10"
+    },
+    {
+      "ingredientID": "4",
+      "cost": "0.25",
+      "name": "Cream",
+      "stock": "10"
+    },
+    {
+      "ingredientID": "5",
+      "cost": "0.35",
+      "name": "Steamed Milk",
+      "stock": "10"
+    }
+  ],
+  "drinks": [
+    {
+      "drink": "1",
+      "name": "Coffee",
+      "status": "1",
+      "ingredients": [
+        {
+          "ingredientID": "1",
+          "units": "3"
+        },
+        {
+          "ingredientID": "4",
+          "units": "1"
+        },
+        {
+          "ingredientID": "5",
+          "units": "1"
+        }
+      ]
+    },
+    {
+      "drink": "2",
+      "name": "Decaf",
+      "status": "1",
+      "ingredients": [
+        {
+          "ingredientID": "2",
+          "units": "3"
+        },
+        {
+          "ingredientID": "4",
+          "units": "1"
+        },
+        {
+          "ingredientID": "5",
+          "units": "1"
+        }
+      ]
+    },
+    {
+      "drink": "3",
+      "name": "Late",
+      "status": "1",
+      "ingredients": [
+        {
+          "ingredientID": "1",
+          "units": "2"
+        },
+        {
+          "ingredientID": "6",
+          "units": "1"
+        }
+      ]
+
+    },
+    {
+      "drink": "4",
+      "name": "Americano",
+      "status": "1",
+      "ingredients": [
+        {
+          "ingredientID": "7",
+          "units": "3"
+        }
+      ]
+    },
+    {
+      "drink": "5",
+      "name": "Mocha",
+      "status": "1",
+      "ingredients": [
+        {
+          "ingredientID": "7",
+          "units": "1"
+        },
+        {
+          "ingredientID": "8",
+          "units": "1"
+        },
+        {
+          "ingredientID": "9",
+          "units": "1"
+        },
+        {
+          "ingredientID": "6",
+          "units": "1"
+        }
+      ]
+    },
+    {
+      "drink": "6",
+      "name": "Capuccino",
+      "status": "1",
+      "ingredients": [
+        {
+          "ingredientID": "1",
+          "units": "3"
+        },
+        {
+          "ingredientID": "6",
+          "units": "1"
+        },
+        {
+          "ingredientID": "10",
+          "units": "1"
+        }
+      ]
+    }
+  ]
+}
