@@ -4,6 +4,7 @@ dispense a fixed set of possible drinks by combining these ingredients in differ
 The cost of a drink is determined by its component ingredients (see table of component ingredient list).
 
 View the running app here http://sergioalbarran.com/sag/coffee/
+** ONLY AVAILABLE FOR MODERN BROWSERS **
 
 # Available drinks:
 
